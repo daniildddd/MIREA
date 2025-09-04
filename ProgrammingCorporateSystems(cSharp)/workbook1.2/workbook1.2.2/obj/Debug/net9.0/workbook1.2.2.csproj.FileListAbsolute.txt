@@ -1,0 +1,14 @@
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/bin/Debug/net9.0/workbook1.2.2
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/bin/Debug/net9.0/workbook1.2.2.deps.json
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/bin/Debug/net9.0/workbook1.2.2.runtimeconfig.json
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/bin/Debug/net9.0/workbook1.2.2.dll
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/bin/Debug/net9.0/workbook1.2.2.pdb
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/obj/Debug/net9.0/workbook1.2.2.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/obj/Debug/net9.0/workbook1.2.2.AssemblyInfoInputs.cache
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/obj/Debug/net9.0/workbook1.2.2.AssemblyInfo.cs
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/obj/Debug/net9.0/workbook1.2.2.csproj.CoreCompileInputs.cache
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/obj/Debug/net9.0/workbook1.2.2.dll
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/obj/Debug/net9.0/refint/workbook1.2.2.dll
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/obj/Debug/net9.0/workbook1.2.2.pdb
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/obj/Debug/net9.0/workbook1.2.2.genruntimeconfig.cache
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.2/obj/Debug/net9.0/ref/workbook1.2.2.dll
