@@ -12,3 +12,4 @@
 /home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.1/obj/Debug/net9.0/workbook1.2.1.pdb
 /home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.1/obj/Debug/net9.0/workbook1.2.1.genruntimeconfig.cache
 /home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.1/obj/Debug/net9.0/ref/workbook1.2.1.dll
+/home/daniil/vscode/MIREA/ProgrammingCorporateSystems(cSharp)/workbook1.2/workbook1.2.1/obj/Debug/net9.0/workbook1.2.1.sourcelink.json
