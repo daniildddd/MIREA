@@ -122,7 +122,6 @@ class Calculator
                     Console.WriteLine("Неверная операция.");
                     continue;
             }
-
             // Проверка результата на диапазон
             if (result < MIN_VALUE || result > MAX_VALUE)
             {
