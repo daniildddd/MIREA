@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("workboo1.1.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f31c07b75510563f2cf55cb7c02aa431c56e50b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02c8b3c501134c710a19be654b48085e1e631aea")]
 [assembly: System.Reflection.AssemblyProductAttribute("workboo1.1.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("workboo1.1.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
