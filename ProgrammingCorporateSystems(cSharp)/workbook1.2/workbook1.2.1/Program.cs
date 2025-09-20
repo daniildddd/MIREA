@@ -12,7 +12,7 @@ class Program
             {
                 break;
             }
-            Console.WriteLine("Неверное число. Пожалуйста, введите число от 1 до 7.");
+            Console.WriteLine("Неверное число. Пожалуйста, введите число от 1 до 7");
         }
 
         int day;
@@ -23,7 +23,7 @@ class Program
             {
                 break;
             }
-            Console.WriteLine("Неверное число. Пожалуйста, введите число от 1 до 31.");
+            Console.WriteLine("Неверное число. Пожалуйста, введите число от 1 до 31");
         }
 
         Console.WriteLine("---Проверяем выходной ли день ---");
