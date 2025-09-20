@@ -1,0 +1,76 @@
+# Файлы сборки и компиляции
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+*.suo
+*.user
+*.userprefs
+*.pdb
+*.orig
+*.[Cc]ache
+*.ncb
+
+# Папки пакетов (NuGet, NPM)
+packages/
+[Nn]u[Gg]et/
+*.nupkg
+.nuget/
+node_modules/
+
+# Файлы проектов и решений
+*.swp
+*.swo
+*~
+_ReSharper.*
+*.resharper
+*.sln.iml
+
+# Файлы IDE
+.vs/
+.idea/
+*.idea/
+*.slnf
+*.csproj.user
+*.vbproj.user
+*.fsproj.user
+
+# Логи и временные файлы
+[Tt]emp/
+[Ll]og/
+[Ll]ogs/
+*.log
+*.launchsettings.json
+
+# Резервные копии и автосохранения
+*.backup.*
+*.autosave.*
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Файлы покрытия тестов
+coverage.xml
+*.coverage
+*.coverage.*
+*.lcov
+
+# Файлы инструментов развёртывания
+*.ps1
+*.cmd
+*.deploy
+*.pubxml
+*.PublishSettings
+
+# Файлы Docker
+Dockerfile
+.dockerignore
+
+# Файлы ML.NET
+mlnet-generated/
+
+# Файлы данных приложения
+appdata.json
+appsettings.*.json
