@@ -16,23 +16,38 @@ class Program
             {100,  0}
         };
 
-        Console.WriteLine("Введите сумму для снятия (не более 150000 рублей):");
-        if (!int.TryParse(Console.ReadLine(), out int amount) || amount <= 0)
+        int amount;
+        while (true)
         {
-            Console.WriteLine("Ошибка: введите положительное число.");
-            return;
-        }
+            Console.WriteLine("Введите сумму для снятия (не более 150000 рублей):");
+            string? input = Console.ReadLine();
+            
+            // Обработка случая, когда input может быть null
+            if (input == null)
+            {
+                Console.WriteLine("Ошибка: ввод не может быть пустым");
+                continue;
+            }
+            
+            if (!int.TryParse(input, out amount) || amount <= 0)
+            {
+                Console.WriteLine("Ошибка: введите положительное число");
+                continue;
+            }
 
-        if (amount > 150000)
-        {
-            Console.WriteLine("Ошибка: нельзя снять больше 150000 рублей за раз.");
-            return;
-        }
+            if (amount > 150000)
+            {
+                Console.WriteLine("Ошибка: нельзя снять больше 150000 рублей за раз");
+                continue;
+            }
 
-        if (amount % 100 != 0)
-        {
-            Console.WriteLine("Ошибка: сумма должна делиться на 100.");
-            return;
+            if (amount % 100 != 0)
+            {
+                Console.WriteLine("Ошибка: сумма должна делиться на 100");
+                continue;
+            }
+
+            break; // Все проверки пройдены, выходим из цикла
         }
 
         int remaining = amount;
@@ -55,12 +70,12 @@ class Program
             foreach (var kvp in banknotes)
             {
                 if (kvp.Value > 0)
-                    Console.WriteLine($"{kvp.Value} × {kvp.Key} руб.");
+                    Console.WriteLine($"{kvp.Value} × {kvp.Key} руб");
             }
         }
         else
         {
-            Console.WriteLine($"Невозможно выдать сумму {amount} рублей доступными купюрами.");
+            Console.WriteLine($"Невозможно выдать сумму {amount} рублей доступными купюрами");
         }
     }
 }
